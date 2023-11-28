@@ -1,0 +1,45 @@
+.six {
+  border-radius: 60%;
+}
+
+.five {
+  border-style: double dashed dashed double;
+  border-color: blue;
+  border-width: 20px;
+}
+
+.five1 {
+  border-style: dashed double double dashed;
+  border-color: blue;
+  border-width: 20px;
+}
+
+.four {
+  background-image: url("https://petapixel.com/assets/uploads/2022/06/rule-of-thirds-in-photography-featured.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.four1 {
+  background-image: url("https://petapixel.com/assets/uploads/2022/06/rule-of-thirds-in-photography-featured.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: block;
+
+}
+
+.four11 {
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  font-weight: bold;
+  font-size: 120px;
+  border: 10px solid #f1f1f1;
+
+}
+
+
+.size {
+  padding: 333px 0;
+
+}
